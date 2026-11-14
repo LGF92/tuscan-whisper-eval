@@ -1,5 +1,7 @@
 # Does Whisper Struggle with Tuscan Italian?
 
+**Live demo:** [Try it on Hugging Face](https://huggingface.co/spaces/LGF92/tuscan-whisper-eval)
+
 A small case study on accent and speech recognition, testing OpenAI's Whisper (turbo) on Tuscan-accented Italian against a non-Tuscan baseline, with linguistically motivated hypotheses.
 
 ## The question
